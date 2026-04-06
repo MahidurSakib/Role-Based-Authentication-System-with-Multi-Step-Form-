@@ -217,6 +217,5 @@ resources/views/
 - **Auth:** Laravel's built-in Auth with custom guards
 - **Pattern:** MVC (Model-View-Controller)
 
----
 
-Made with ❤️ for professional Laravel development interview.
+
