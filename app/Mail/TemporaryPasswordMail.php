@@ -36,3 +36,6 @@ class TemporaryPasswordMail extends Mailable
         );
     }
 }
+
+
+
