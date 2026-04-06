@@ -51,3 +51,4 @@ Route::middleware('auth')->group(function () {
         Route::get('/dashboard', [UserController::class, 'dashboard'])->name('dashboard');
     });
 });
+
